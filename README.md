@@ -1,7 +1,7 @@
 ## Olá! Eu sou Jorge Ulloa, e este é meu perfil no GitHub:
 
 - 🧑‍💻 Hoje trabalho como técnico em tecnologia da informação e comunicação, em uma das unidades do programa de governo do Estado de São Paulo POUPATEMPO.
-- 💻 Estudando atualmente para área de desenvolvimento Front-End e atuando como Freelancer.
+- 💻 Desenvolvimento de sistemas Web.
 
 <div align="center">
   <a href="https://github.com/UlloaJr">
