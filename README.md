@@ -1,7 +1,7 @@
 ## Olá! Eu sou Jorge Ulloa, e este é meu perfil no GitHub:
 
-- 🧑‍💻 Técnico em tecnologia da informação e comunicação, atuando no programa de governo do Estado de São Paulo POUPATEMPO.
-- 💻 Desenvolvedor Front-End.
+💡 Front-end Developer:
+Eu sou um entusiasta da criação de interfaces cativantes e interativas na área de desenvolvimento front-end. Minhas competências abrangem o domínio de linguagens como HTML, CSS e JavaScript, combinadas com a utilização proficiente de frameworks como React, Tailwind e Bootstrap. Essa combinação me habilita a conceber experiências digitais notáveis e envolventes. Como adicional, ja trabalhei com a plataforma Wordpress junto ao Elementor.
 
 <div align="center">
   <a href="https://github.com/UlloaJr">
